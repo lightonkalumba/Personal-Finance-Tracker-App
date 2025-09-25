@@ -15,7 +15,8 @@ Built quickly with **Bolt.new** and designed to demonstrate clean UI and basic f
 ---
 
 ## 📸 Screenshot  
-![Finance Tracker UI](./assets/screenshot.png)  
+![Finance Tracker UI]<img width="1280" height="668" alt="image" src="https://github.com/user-attachments/assets/4b984764-c177-4dec-921a-6f05b92b91e4" />
+
 
 ---
 
